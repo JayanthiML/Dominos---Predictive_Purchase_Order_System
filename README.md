@@ -17,16 +17,12 @@ The project demonstrates a real-world application of **data science, time series
 
 ---
 
-## Project Structure
-Dominos-Predictive-Purchase-Order-System/
-│
+## Project Structure 
 ├── 1_prep_for_train.ipynb # Data cleaning and preprocessing  
 ├── 2)_EDA.ipynb # Exploratory Data Analysis  
 ├── 3)_Models_Dominos.ipynb # Model selection and experimentation  
 ├── 4)_Train_Forecast_Dominos.ipynb # Training, forecasting & purchase order generation  
-├── Dominos - Predictive Purchase Order System.pdf  
 ├── README.md  
-
 
 ---
 
