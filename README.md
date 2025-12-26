@@ -4,7 +4,7 @@
 This project focuses on building a **Predictive Purchase Order System** for Dominos using historical sales data.  
 The goal is to **forecast future pizza sales** and automatically generate an **optimized ingredient purchase order**, helping Dominos reduce waste, avoid stockouts, and improve inventory management.
 
-The project demonstrates a real-world application of **data science, time series forecasting, and business decision-making** in the food service industry. :contentReference[oaicite:0]{index=0}
+The project demonstrates a real-world application of **data science, time series forecasting, and business decision-making** in the food service industry.
 
 ---
 
@@ -57,6 +57,8 @@ Dominos-Predictive-Purchase-Order-System/
 - Forecasted pizza sales for the upcoming week
 - Calculated ingredient requirements using ingredient mapping
 - Generated a detailed purchase order for inventory planning
+
+---
 
 ## Technologies Used
 - Python
