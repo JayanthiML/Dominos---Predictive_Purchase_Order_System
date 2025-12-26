@@ -1,0 +1,63 @@
+pizza_ingredients,required_qty_grams
+Chicken,19600.0
+Red Onions,19360.0
+Capocollo,15300.0
+Tomatoes,13330.0
+Pepperoni,9200.0
+Bacon,8820.0
+Mushrooms,8720.0
+Spinach,7230.0
+Garlic,6680.0
+Corn,4690.0
+Calabrese Salami,4300.0
+Mozzarella Cheese,4240.0
+Beef Chuck Roast,4040.0
+Red Peppers,3925.0
+Coarse Sicilian Salami,3440.0
+Feta Cheese,3270.0
+Goat Cheese,3240.0
+Artichokes,3070.0
+Pineapple,3045.0
+Parmigiano Reggiano Cheese,2580.0
+Green Peppers,2070.0
+Soppressata Salami,2050.0
+Asiago Cheese,1920.0
+Genoa Salami,1740.0
+Luganega Sausage,1720.0
+Pesto Sauce,1670.0
+Pancetta,1560.0
+Barbecued Chicken,1500.0
+Green Olives,1460.0
+Chipotle Sauce,1410.0
+Chorizo Sausage,1400.0
+Ricotta Cheese,1325.0
+Zucchini,1320.0
+Fontina Cheese,1250.0
+Eggplant,1240.0
+Plum Tomatoes,1220.0
+Kalamata Olives,1175.0
+Thai Sweet Chilli Sauce,1160.0
+Jalapeno Peppers,1125.0
+Gorgonzola Piccante Cheese,1060.0
+?duja Salami,1040.0
+Anchovies,965.0
+Onions,860.0
+Gouda Cheese,840.0
+Blue Cheese,750.0
+Smoked Gouda Cheese,750.0
+Romano Cheese,750.0
+Provolone Cheese,750.0
+Cilantro,705.0
+Prosciutto di San Daniele,690.0
+Sun-dried Tomatoes,575.0
+Alfredo Sauce,515.0
+Barbecue Sauce,505.0
+Peperoncini verdi,430.0
+Oregano,380.0
+Prosciutto,330.0
+Brie Carre Cheese,330.0
+Arugula,300.0
+Italian Sausage,280.0
+Friggitello Peppers,260.0
+Pears,110.0
+Thyme,55.0
